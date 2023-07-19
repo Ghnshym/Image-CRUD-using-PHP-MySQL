@@ -1,4 +1,3 @@
-# Image-CRUD-using-PHP-MySQL
 # PHP MySQL Project - Setup Instructions
 
 This repository contains a PHP MySQL project that you can run on your local machine using XAMPP. Below are the step-by-step instructions to download, configure, and run the project.
