@@ -69,10 +69,8 @@
 
                         </form>
                     </td>
-
                                     </tr>
                                     <?php
-                                    
                                 }
                             }
                             else{
